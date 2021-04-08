@@ -8,11 +8,9 @@
 
 - 🌱 Estou aprendendo Back End na Trybe
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://marcelasouza1995.github.io/](https://marcelasouza1995.github.io/)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [MarcelaSouza1995](https://marcelasouza1995.github.io/)
 
 - 📫 Como entrar em contato comigo marcela9908@gmail.com 
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcelasouza1995)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align = "left"> Conecte-se a mim: </h3>
 
@@ -25,6 +23,8 @@
 - teste [Instagram](https://www.instagram.com/maarceelasoouza/)
 
 - teste [Portifolio](https://marcelasouza1995.github.io/)
+
+[! [willianrod's wakatime stats] (https://github-readme-stats.vercel.app/api/wakatime ? username = marcelasouza1995 )] (https://github.com/anuraghazra/github-readme-stats)
 
 
 
