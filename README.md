@@ -12,6 +12,8 @@
 
 - 📫 Como entrar em contato comigo marcela9908@gmail.com 
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcelasouza1995)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align = "left"> Conecte-se a mim: </h3>
 
 - teste [Linkedin](https://www.linkedin.com/in/marcela-souza-834696153/)
