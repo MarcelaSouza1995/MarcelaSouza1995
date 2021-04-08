@@ -1,5 +1,5 @@
-<h1 align = "center"> Olá 👋, sou Marcela </h1>
-<h3 align = "center"> Uma apaixonada desenvolvedor front-end do Brasil </h3>
+<h1 align = "center"> Olá 👋, sou a Marcela </h1>
+<h3 align = "center"> Desenvolvedora front-end do Brasil </h3>
 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=marcelasouza1995&label=Profile%20views&color=0e75b6&style=flat" alt = "marcelasouza1995" /> </p>
 
