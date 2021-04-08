@@ -1,18 +1,18 @@
-<h1 align = "center"> Olá 👋, sou a Marcela </h1>
-<h3 align = "center"> Desenvolvedora front-end do Brasil </h3>
+<h1 align = "center"> Hello 👋, I'm Marcela </h1>
+<h3 align = "center"> Front-end developer from Brazil </h3>
 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=marcelasouza1995&label=Profile%20views&color=0e75b6&style=flat" alt = "marcelasouza1995" /> </p>
 
 
-- 🔭 Estou trabalhando no [Projeto de Receitas](https://github.com/tryber/sd-08-project-recipes-app/tree/main-group-16)
+- 🔭 I'm working on the [Projeto de Receitas](https://github.com/tryber/sd-08-project-recipes-app/tree/main-group-16)
 
-- 🌱 Estou aprendendo Back End na Trybe
+- 🌱 I'm learning Back End at Trybe
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [MarcelaSouza1995](https://marcelasouza1995.github.io/)
+- 👨‍💻 All my projects are available at [MarcelaSouza1995](https://marcelasouza1995.github.io/)
 
-- 📫 Como entrar em contato comigo marcela9908@gmail.com 
+- 📫 How to contact me [Email](marcela9908@gmail.com) 
 
-<h3 align = "left"> Conecte-se a mim: </h3> 
+<h3 align = "left">Connect with me: </h3> 
 
 - Marcela Souza [Linkedin](https://www.linkedin.com/in/marcela-souza-834696153/)
 [Whatsapp](https://api.whatsapp.com/send?phone=5531997804875&text=Marcela%20Souza)
