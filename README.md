@@ -12,19 +12,12 @@
 
 - 📫 Como entrar em contato comigo marcela9908@gmail.com 
 
-<h3 align = "left"> Conecte-se a mim: </h3>
+<h3 align = "left"> Conecte-se a mim: </h3> 
 
-- teste [Linkedin](https://www.linkedin.com/in/marcela-souza-834696153/)
+- Marcela Souza [Linkedin](https://www.linkedin.com/in/marcela-souza-834696153/)
+[Whatsapp](https://api.whatsapp.com/send?phone=5531997804875&text=Marcela%20Souza)
+[Instagram](https://www.instagram.com/maarceelasoouza/)
 
-- teste [Whatsapp](https://api.whatsapp.com/send?phone=5531997804875&text=Marcela%20Souza)
-
-- teste [Twitter](https://twitter.com/MARCELA40843256)
-
-- teste [Instagram](https://www.instagram.com/maarceelasoouza/)
-
-- teste [Portifolio](https://marcelasouza1995.github.io/)
-
-[! [willianrod's wakatime stats] (https://github-readme-stats.vercel.app/api/wakatime ? username = marcelasouza1995 )] (https://github.com/anuraghazra/github-readme-stats)
 
 
 
