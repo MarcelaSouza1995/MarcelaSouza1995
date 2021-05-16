@@ -4,7 +4,7 @@
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=marcelasouza1995&label=Profile%20views&color=0e75b6&style=flat" alt = "marcelasouza1995" /> </p>
 
 
-- 🔭 I'm working on the [Projeto de Receitas](https://github.com/tryber/sd-08-project-recipes-app/tree/main-group-16)
+- 🔭 I'm working on the Mongo DB
 
 - 🌱 I'm learning Back End at Trybe
 
@@ -12,7 +12,7 @@
 
 - 📫 How to contact me [Email](marcela9908@gmail.com) 
 
-##Stacks
+#### Stacks
 
 <img src="https://img.shields.io/badge/-HTML-orange?logo=HTML5" /> <img src="https://img.shields.io/badge/-CSS-informational?logo=CSS3" /> <img src="https://img.shields.io/badge/-Javascript-yellow?logo=Javascript" /> <img src="https://img.shields.io/badge/-React-blue?logo=React" /> <img src="https://img.shields.io/badge/-Redux-blueviolet?logo=Redux" /> <img src="http://img.shields.io/badge/-MySQL-white?logo=mysql" /> <img src="http://img.shields.io/badge/-MongoDB-grey?logo=mongodb" /> <img src="http://img.shields.io/badge/-Node.Js-green?logo=node.js" /> <img src="https://img.shields.io/badge/-Python-blue?logo=python" />
 
