@@ -27,10 +27,12 @@
 
 <p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=marcelasouza1995&show_icons=true&locale=en&layout=compact" alt = "marcelasouza1995" /> </p>
 <tr>
+ 
+ <br />
 
 <p> <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=marcelasouza1995&show_icons=true&locale=en" alt = "marcelasouza1995" /> </p>
 
 <tr>
 
-<p> <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=marcelasouza1995&" alt = "marcelasouza1995" /> </p>
+
 
