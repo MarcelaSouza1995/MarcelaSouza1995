@@ -4,7 +4,7 @@
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=marcelasouza1995&label=Profile%20views&color=0e75b6&style=flat" alt = "marcelasouza1995" /> </p>
 
 
-- 🔭 I'm working on the Mongo DB
+- 🔭 I'm working on the MongoDB
 
 - 🌱 I'm learning Back End at Trybe
 
