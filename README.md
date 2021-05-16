@@ -22,17 +22,18 @@
 [Whatsapp](https://api.whatsapp.com/send?phone=5531997804875&text=Marcela%20Souza)
 [Instagram](https://www.instagram.com/maarceelasoouza/)
 
+<tr>
 
-
-
+<td>
 <p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=marcelasouza1995&show_icons=true&locale=en&layout=compact" alt = "marcelasouza1995" /> </p>
+</td>
+
 <tr>
  
- <br />
-
+<td>
 <p> <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=marcelasouza1995&show_icons=true&locale=en" alt = "marcelasouza1995" /> </p>
 
-<tr>
+</td>
 
 
 
