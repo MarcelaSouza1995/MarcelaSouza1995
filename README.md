@@ -33,13 +33,13 @@
 
 <h3 align = "left">Connect with me: </h3> 
 <a href="https://www.linkedin.com/in/marcela-souza-834696153/" target="_blank">
-  <img src="https://img-premium.flaticon.com/png/512/1384/1384889.png?token=exp=1621199433~hmac=f229a6167997eb752dfa2e8dc502f44a" width="48px" height="48px">
+  <img src="https://image.flaticon.com/icons/png/128/1384/1384889.png" width="48px" height="48px">
 </a>
 <a href="https://api.whatsapp.com/send?phone=5531997804875&text=Marcela%20Souza" target="_blank">
-  <img src="https://img-premium.flaticon.com/png/512/1384/1384883.png?token=exp=1621199540~hmac=58c725e8dd29467680697abe9b14cede" width="48px" height="48px">
+  <img src="https://image.flaticon.com/icons/png/128/1384/1384883.png" width="48px" height="48px">
 </a>
 <a href="https://www.instagram.com/maarceelasoouza/" target="_blank">
-  <img src="https://img-premium.flaticon.com/png/512/1384/1384886.png?token=exp=1621199540~hmac=83974d5bea3116dc230d48d58b5d4d23" width="48px" height="48px">
+  <img src="https://image.flaticon.com/icons/png/128/1384/1384886.png" width="48px" height="48px">
 </a>
 
 <br />
