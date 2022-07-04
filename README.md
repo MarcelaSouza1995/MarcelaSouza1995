@@ -1,32 +1,40 @@
 <h1 align = "center"> Hello 👋, I'm Marcela </h1>
 <h3 align = "center"> Front-end developer from Brazil </h3>
 
+<p align = "center"> <img src = "https://komarev.com/ghpvc/?username=marcelasouza1995&label=Profile%20views&color=0e75b6&style=flat" alt = "marcelasouza1995" width="15%"/> </p>
+
 <br />
 <br />
 <br />
 <br />
 
 
-<img src="https://zconti.com.br/wp-content/uploads/2020/10/quanto-tempo-para-abrir-uma-microempresa.gif" align="center" width="10px"/>
+<img src="https://zconti.com.br/wp-content/uploads/2020/10/quanto-tempo-para-abrir-uma-microempresa.gif" align="right" width="40%"/>
 
-<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=marcelasouza1995&label=Profile%20views&color=0e75b6&style=flat" alt = "marcelasouza1995" /> </p>
 
-- 🔭 I'm working on the NodeJS
+- 🔭 I'm working with ruby, appium and cucumber in test automation.
 
-- 🌱 I'm learning Back End at Trybe
+- 🌱 I'm learning SWIFT at Alura
 
 - 👨‍💻 All my projects are available at [MarcelaSouza1995](https://marcelasouza1995.github.io/)
 
 - 📫 How to contact me [Email](marcela9908@gmail.com) 
 
-
 <br />
-
+<br />
+<br />
+<br />
+<br />
 
 #### Stacks
 
-<img src="https://img.shields.io/badge/-HTML-orange?logo=HTML5" /> <img src="https://img.shields.io/badge/-CSS-informational?logo=CSS3" /> <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=Javascript" /> <img src="https://img.shields.io/badge/-React-blue?logo=React" /> <img src="https://img.shields.io/badge/-Redux-blueviolet?logo=Redux" /> <img src="http://img.shields.io/badge/-MySQL-white?logo=mysql" /> <img src="http://img.shields.io/badge/-MongoDB-grey?logo=mongodb" /> <img src="http://img.shields.io/badge/-Node.Js-green?logo=node.js" /> <img src="https://img.shields.io/badge/-TypeScript-grey?logo=Typescript" />
- <img src="https://img.shields.io/badge/styled-components-grey?logo=styled-components" />
+<img src="https://img.shields.io/badge/-HTML-orange?logo=HTML5" /> <img src="https://img.shields.io/badge/-CSS-informational?logo=CSS3" /> <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=Javascript" /> <img src="https://img.shields.io/badge/-React-blue?logo=React" /> <img src="https://img.shields.io/badge/-Redux-blueviolet?logo=Redux" /> <img src="http://img.shields.io/badge/-MySQL-white?logo=mysql" /> <img src="http://img.shields.io/badge/-MongoDB-grey?logo=mongodb" /> <img src="http://img.shields.io/badge/-Node.Js-green?logo=node.js" /> 
+<img src="https://img.shields.io/badge/-TypeScript-grey?logo=Typescript" />
+ <img src="https://img.shields.io/badge/Styled-Components-grey?logo=styled-components" />
+ <img src="https://img.shields.io/badge/Python-yellow?logo=python"/>
+ <img src="https://img.shields.io/badge/Ruby-red?logo=ruby"/>
+ <img src="https://img.shields.io/badge/Cypress-black?logo=cypress"/>
+ <img src="https://img.shields.io/badge/Cucumber-black?logo=cucumber"/>
 
 
 <h3 align = "left">Connect with me: </h3> 
@@ -37,7 +45,7 @@
   <img src="https://i0.wp.com/www.multarte.com.br/wp-content/uploads/2018/11/whatsapp-logo-icone-fundo-transparente.png?resize=696%2C712&ssl=1" width="48px" height="48px">
 </a>
 <a href="https://www.instagram.com/maarceelasoouza/" target="_blank">
-  <img src="https://i0.wp.com/www.multarte.com.br/wp-content/uploads/2019/03/logo-instagram-png-fundo-transparente2.png?resize=696%2C696&ssl=1" width="48px" height="48px">
+  <img src="https://i0.wp.com/www.multarte.com.br/wp-content/uploads/2019/03/logo-instagram-png-fundo-transparente2.png?resize=696%2C696&ssl=1" width="48px" height="48px" />
 </a>
 
 <br />
