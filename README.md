@@ -35,13 +35,13 @@
 
 <h3 align = "left">Connect with me: </h3> 
 <a href="https://www.linkedin.com/in/marcela-souza-834696153/" target="_blank">
-  <img src="https://image.flaticon.com/icons/png/128/1384/1384889.png" width="48px" height="48px">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48px" height="48px">
 </a>
 <a href="https://api.whatsapp.com/send?phone=5531997804875&text=Marcela%20Souza" target="_blank">
-  <img src="https://image.flaticon.com/icons/png/128/1384/1384883.png" width="48px" height="48px">
+  <img src="https://i0.wp.com/www.multarte.com.br/wp-content/uploads/2018/11/whatsapp-logo-icone-fundo-transparente.png?resize=696%2C712&ssl=1" width="48px" height="48px">
 </a>
 <a href="https://www.instagram.com/maarceelasoouza/" target="_blank">
-  <img src="https://image.flaticon.com/icons/png/128/1384/1384886.png" width="48px" height="48px">
+  <img src="https://i0.wp.com/www.multarte.com.br/wp-content/uploads/2019/03/logo-instagram-png-fundo-transparente2.png?resize=696%2C696&ssl=1" width="48px" height="48px">
 </a>
 
 <br />
