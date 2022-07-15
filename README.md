@@ -9,7 +9,7 @@
 <br />
 
 
-<img src="https://zconti.com.br/wp-content/uploads/2020/10/quanto-tempo-para-abrir-uma-microempresa.gif" align="right" width="60%"/>
+<img src="https://zconti.com.br/wp-content/uploads/2020/10/quanto-tempo-para-abrir-uma-microempresa.gif" align="right" width="70%"/>
 
 
 - 🔭 I'm working with ruby, appium and cucumber in test automation.
