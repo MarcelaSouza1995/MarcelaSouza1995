@@ -4,9 +4,7 @@
 <p align = "center"> <img src = "https://komarev.com/ghpvc/?username=marcelasouza1995&label=Profile%20views&color=0e75b6&style=flat" alt = "marcelasouza1995" width="15%"/> </p>
 
 <br />
-
-> {<img src="https://zconti.com.br/wp-content/uploads/2020/10/quanto-tempo-para-abrir-uma-microempresa.gif" align="right" width="35%"/>}
-<img src="https://img.freepik.com/vetores-premium/menina-calma-e-pacifica-trabalhando-em-seu-notebook_760443-1162.jpg" border-radius='10px'  width="35%">
+<img src="https://img.freepik.com/vetores-premium/menina-calma-e-pacifica-trabalhando-em-seu-notebook_760443-1162.jpg" align="right"  width="35%">
 <br />
 
 - 🔭 I'm working with React, React Native and TypeScript
