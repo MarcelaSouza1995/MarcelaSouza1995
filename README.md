@@ -50,11 +50,8 @@
 
 <br />
 <br />
-<br />
-
-
-<img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=marcelasouza1995&show_icons=true&locale=en&layout=compact" alt = "marcelasouza1995" width="30%" />
-<img align = "center" src = "https://github-readme-stats.vercel.app/api?username=marcelasouza1995&show_icons=true&locale=en" alt = "marcelasouza1995" width="30%" />
+<img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=marcelasouza1995&show_icons=true&locale=en&layout=compact" alt = "marcelasouza1995" width="50%" />
+<img align = "center" src = "https://github-readme-stats.vercel.app/api?username=marcelasouza1995&show_icons=true&locale=en" alt = "marcelasouza1995" width="55%" />
 
 
 
