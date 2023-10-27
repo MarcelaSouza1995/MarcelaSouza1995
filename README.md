@@ -33,6 +33,7 @@
  <img src="https://img.shields.io/badge/Ruby-red?logo=ruby"/>
  <img src="https://img.shields.io/badge/Cypress-black?logo=cypress"/>
  <img src="https://img.shields.io/badge/Cucumber-black?logo=cucumber"/>
+ <img src="https://img.shields.io/badge/React%20Native-blue?logo=react" />
 
 
 <h3 align = "left">Connect with me: </h3> 
