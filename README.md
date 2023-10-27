@@ -4,10 +4,6 @@
 <p align = "center"> <img src = "https://komarev.com/ghpvc/?username=marcelasouza1995&label=Profile%20views&color=0e75b6&style=flat" alt = "marcelasouza1995" width="20%"/> </p>
 
 <br />
-<br />
-<br />
-<br />
-
 
 <img src="https://zconti.com.br/wp-content/uploads/2020/10/quanto-tempo-para-abrir-uma-microempresa.gif" align="right" width="50%"/>
 
