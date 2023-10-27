@@ -1,7 +1,7 @@
 <h1 align = "center"> Hello 👋, I'm Marcela </h1>
 <h3 align = "center"> Web and mobile software developer </h3>
 
-<p align = "center"> <img src = "https://komarev.com/ghpvc/?username=marcelasouza1995&label=Profile%20views&color=0e75b6&style=flat" alt = "marcelasouza1995" width="30%"/> </p>
+<p align = "center"> <img src = "https://komarev.com/ghpvc/?username=marcelasouza1995&label=Profile%20views&color=0e75b6&style=flat" alt = "marcelasouza1995" width="20%"/> </p>
 
 <br />
 <br />
