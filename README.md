@@ -49,7 +49,7 @@
 <br />
 <br />
 <br />
-<div width="100%">
+<div width="100%" height="400px">
  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=marcelasouza1995&show_icons=true&locale=en&layout=compact" alt = "marcelasouza1995" width="40%"/>
  <img src = "https://github-readme-stats.vercel.app/api?username=marcelasouza1995&show_icons=true&locale=en" alt = "marcelasouza1995" width="50%"/>
 </div>
