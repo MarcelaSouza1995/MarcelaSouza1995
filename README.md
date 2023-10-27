@@ -47,7 +47,8 @@
 <a href="https://www.instagram.com/maarceelasoouza/" target="_blank">
   <img src="https://i0.wp.com/www.multarte.com.br/wp-content/uploads/2019/03/logo-instagram-png-fundo-transparente2.png?resize=696%2C696&ssl=1" width="48px" height="48px" />
 </a>
-
+<br />
+<br />
 <br />
 <br />
 <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=marcelasouza1995&show_icons=true&locale=en&layout=compact" alt = "marcelasouza1995" width="40%" />
