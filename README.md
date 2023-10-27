@@ -5,7 +5,7 @@
 
 <br />
 
-<img src="https://zconti.com.br/wp-content/uploads/2020/10/quanto-tempo-para-abrir-uma-microempresa.gif" align="right" width="35%"/>
+<img src="https://zconti.com.br/wp-content/uploads/2020/10/quanto-tempo-para-abrir-uma-microempresa.gif" align="right" width="35%" borderRadius='10'/>
 <br />
 <br />
 
