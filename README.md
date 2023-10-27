@@ -9,10 +9,10 @@
 <br />
 <br />
 
+- 🔭 I'm working with React, React Native and TypeScript
+- 🌱 I'm improving my development knowledge with Udemy courses.
 
-- 🔭 I'm working with ruby, appium and cucumber in test automation.
 
-- 🌱 I'm learning SWIFT at Alura
 
 - 👨‍💻 All my projects are available at [MarcelaSouza1995](https://marcelasouza1995.github.io/)
 
