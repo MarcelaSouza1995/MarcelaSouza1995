@@ -7,15 +7,10 @@
 
 <img src="https://zconti.com.br/wp-content/uploads/2020/10/quanto-tempo-para-abrir-uma-microempresa.gif" align="right" width="35%"/>
 <br />
-<br />
 
 - 🔭 I'm working with React, React Native and TypeScript
 - 🌱 I'm improving my development knowledge with Udemy courses.
-
-
-
 - 👨‍💻 All my projects are available at [MarcelaSouza1995](https://marcelasouza1995.github.io/)
-
 - 📫 How to contact me [Email](marcela9908@gmail.com) 
 
 <br />
