@@ -23,10 +23,9 @@
 <br />
 
 #### Stacks
-
+<br />
+<br />
 <img src="https://img.shields.io/badge/-HTML-orange?logo=HTML5" /> <img src="https://img.shields.io/badge/-CSS-informational?logo=CSS3" /> <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=Javascript" /> <img src="https://img.shields.io/badge/-React-blue?logo=React" /> <img src="https://img.shields.io/badge/-Redux-blueviolet?logo=Redux" /> <img src="http://img.shields.io/badge/-MySQL-white?logo=mysql" /> <img src="http://img.shields.io/badge/-MongoDB-grey?logo=mongodb" /> <img src="http://img.shields.io/badge/-Node.Js-green?logo=node.js" />
-<br />
-<br />
 <img src="https://img.shields.io/badge/-TypeScript-grey?logo=Typescript" />
  <img src="https://img.shields.io/badge/Styled-Components-grey?logo=styled-components" />
  <img src="https://img.shields.io/badge/Python-yellow?logo=python"/>
