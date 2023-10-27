@@ -20,7 +20,7 @@
 <br />
 
 #### Stacks
-<div>
+<div width="80%">
   <img src="https://img.shields.io/badge/-HTML-orange?logo=HTML5" />
   <img src="https://img.shields.io/badge/-CSS-informational?logo=CSS3" /> 
   <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=Javascript" /> 
