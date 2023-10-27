@@ -6,6 +6,7 @@
 <br />
 
 <img src="https://zconti.com.br/wp-content/uploads/2020/10/quanto-tempo-para-abrir-uma-microempresa.gif" align="right" width="35%"/>
+<img src="https://img.freepik.com/vetores-premium/menina-calma-e-pacifica-trabalhando-em-seu-notebook_760443-1162.jpg">
 <br />
 
 - 🔭 I'm working with React, React Native and TypeScript
