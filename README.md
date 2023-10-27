@@ -20,20 +20,21 @@
 <br />
 
 #### Stacks
-
-<img src="https://img.shields.io/badge/-HTML-orange?logo=HTML5" />
-<img src="https://img.shields.io/badge/-CSS-informational?logo=CSS3" /> 
-<img src="https://img.shields.io/badge/-JavaScript-yellow?logo=Javascript" /> 
-<img src="https://img.shields.io/badge/-React-blue?logo=React" /> 
-<img src="https://img.shields.io/badge/-Redux-blueviolet?logo=Redux" /> <img src="http://img.shields.io/badge/-MySQL-white?logo=mysql" /> 
-<img src="http://img.shields.io/badge/-MongoDB-grey?logo=mongodb" /> <img src="http://img.shields.io/badge/-Node.Js-green?logo=node.js" />
-<img src="https://img.shields.io/badge/-TypeScript-grey?logo=Typescript" />
-<img src="https://img.shields.io/badge/Styled-Components-grey?logo=styled-components" />
-<img src="https://img.shields.io/badge/Python-yellow?logo=python"/>
-<img src="https://img.shields.io/badge/Ruby-red?logo=ruby"/>
-<img src="https://img.shields.io/badge/Cypress-black?logo=cypress"/>
-<img src="https://img.shields.io/badge/Cucumber-black?logo=cucumber"/>
-<img src="https://img.shields.io/badge/React%20Native-blue?logo=react" />
+<div>
+  <img src="https://img.shields.io/badge/-HTML-orange?logo=HTML5" />
+  <img src="https://img.shields.io/badge/-CSS-informational?logo=CSS3" /> 
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=Javascript" /> 
+  <img src="https://img.shields.io/badge/-React-blue?logo=React" /> 
+  <img src="https://img.shields.io/badge/-Redux-blueviolet?logo=Redux" /> <img src="http://img.shields.io/badge/-MySQL-white?logo=mysql" /> 
+  <img src="http://img.shields.io/badge/-MongoDB-grey?logo=mongodb" /> <img src="http://img.shields.io/badge/-Node.Js-green?logo=node.js" />
+  <img src="https://img.shields.io/badge/-TypeScript-grey?logo=Typescript" />
+  <img src="https://img.shields.io/badge/Styled-Components-grey?logo=styled-components" />
+  <img src="https://img.shields.io/badge/Python-yellow?logo=python"/>
+  <img src="https://img.shields.io/badge/Ruby-red?logo=ruby"/>
+  <img src="https://img.shields.io/badge/Cypress-black?logo=cypress"/>
+  <img src="https://img.shields.io/badge/Cucumber-black?logo=cucumber"/>
+  <img src="https://img.shields.io/badge/React%20Native-blue?logo=react" />
+</div>
 
 
 <h3 align = "left">Connect with me: </h3> 
