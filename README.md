@@ -6,6 +6,8 @@
 <br />
 
 <img src="https://zconti.com.br/wp-content/uploads/2020/10/quanto-tempo-para-abrir-uma-microempresa.gif" align="right" width="50%"/>
+<br />
+<br />
 
 
 - 🔭 I'm working with ruby, appium and cucumber in test automation.
